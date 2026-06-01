@@ -18,14 +18,3 @@ This app helps users organize daily tasks efficiently with a clean and interacti
 * HTML5
 * CSS3
 * JavaScript
-
-## Project Structure
-
-Task-Manager/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-our browser
